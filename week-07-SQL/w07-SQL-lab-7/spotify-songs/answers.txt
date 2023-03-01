@@ -1,0 +1,2 @@
+Calculating the average value for each mood, the moods being (Energy, Valence, and Danceability) of the user's 100 top songs. Then those three values
+would be the porcentages% of each "aura" color displayed to the user.
